@@ -84,3 +84,4 @@ Thanks a lot for spending your time helping Collab Community grow. Thanks a lot!
 ## License
 
 This project is licensed under the terms of the [MIT](https://github.com/collab-community/journey-book/blob/main/LICENSE) license. &copy; [Adarsh Jaiswal](https://github.com/Adarsh-jaiss)
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anikurhade'></p>
